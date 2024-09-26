@@ -71,7 +71,7 @@ const ProjectInfo = [
 const SkillInfo = [
     {
         title: "Frontend",
-        skills: ["HTML", "CSS","JavaScript", "React JS", "Redux", "Tailwind CSS","Bootstrap"
+        skills: ["html", "CSS","JavaScript", "React JS", "Redux", "Tailwind CSS","Bootstrap"
         ]
     },
     {
