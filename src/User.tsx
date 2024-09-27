@@ -76,7 +76,7 @@ const SkillInfo = [
     },
     {
         title: "Backend",
-        skills: ["Node JS", "Express JS","MongoDB","firebase"]
+        skills: ["Node JS", "Express JS","MongoDB","Firebase"]
     },
     {
         title: "Languages",
