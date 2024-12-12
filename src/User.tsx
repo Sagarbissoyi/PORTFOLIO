@@ -28,13 +28,13 @@ const ProjectInfo = [
         github: "https://github.com/Sagarbissoyi/AIR-TRAVEL-APP?tab=readme-ov-file"
     },
     {
-        title: "Spotify Clone",
-        desc: "Spotify Clone is a full-stack web application that replicates the core features of Spotify, including user authentication, music playback, and playlist creation. The front end is built with React, TailwindCSS, Heroicons, and Firebase, while the back end uses Firebase for user authentication and data storage. Users can create an account, log in, search for songs, and create playlists. The app features real-time updates, so users can see new songs as they are added. Spotify Clone provides a seamless user experience with a clean, modern design and intuitive functionality.",
-        image: "Spotify.png",
-        live: false,
-        technologies: ["React", "Springboot", "Tailwind", "Tabler-Icons", "MongoDB", "Firebase"],
-        link: "https://github.com/Code-Mars/Spotify-Clone",
-        github: "https://github.com/Code-Mars/Spotify-Clone"
+        title: "Climate Clock APP ",
+        desc: "Climate clock app  is a java script web application that replicates the core features of climate animation app, responsive design and best animation",
+        image: "clockapp.png",
+        live: true,
+        technologies: ["HTML", "CSS", "JAVASCRIPT",],
+        link: "https://sagarbissoyi.github.io/Climate-Clock-APP/",
+        github: "https://github.com/Sagarbissoyi/Climate-Clock-APP"
     },
     {
         title: "Travel Tracker",
