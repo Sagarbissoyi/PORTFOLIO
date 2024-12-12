@@ -30,7 +30,7 @@ const ProjectInfo = [
     {
         title: "Climate Clock APP ",
         desc: "Climate clock app  is a java script web application that replicates the core features of climate animation app, responsive design and best animation",
-        image: "Clockapp.png",
+        image: "Clockapps.png",
         live: true,
         technologies: ["HTML", "CSS", "JAVASCRIPT",],
         link: "https://sagarbissoyi.github.io/Climate-Clock-APP/",
