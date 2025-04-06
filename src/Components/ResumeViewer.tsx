@@ -21,7 +21,7 @@ return <Modal.Root scrollAreaComponent={ScrollArea.Autosize} size="auto" classNa
   </Modal.Header>
   <Modal.Body className="!bg-bgColor !pt-2 border-primaryColor !border-2 !border-t-0  !rounded-bl-3xl !rounded-br-3xl">
 
-  <Document file="SAGAR RESUME.pdf" >
+  <Document file="/SAGAR RESUME.pdf" >
         <Page pageNumber={1} renderTextLayer={false} renderAnnotationLayer={false}/>
       </Document>
   
