@@ -33,7 +33,7 @@ const ProjectInfo = [
         image: "Clockapps.png",
         live: true,
         technologies: ["HTML", "CSS", "JAVASCRIPT",],
-        link: "https://sagarbissoyi.github.io/Climate-Clock-APP/",
+        link: "https://sagarbissoyi.github.io/Climate",
         github: "https://github.com/Sagarbissoyi/Climate-Clock-APP"
     },
     {
